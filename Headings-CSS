@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" href="styles.css">
+</head>
+<!-- HI ALL -->
+<body style="background-color:LightGray; font-family:calibri; text-align:left">
+
+<b style="font-size:15px;color:blue">
+Hi
+this
+is
+Manasa
+</b>
+
+<h1 style="font-size:100%;"> Heading 1 </h1>
+<p style="font-size:15px;":>content</p>
+<hr>
+<h2 style="font-size:100%;">Heading 2</h2>
+<p style="font-size:15px;">content</p>
+<hr>
+
+<pre style="color:rgb(0,0,0);">
+My Bonnie lies over the ocean.
+
+My Bonnie lies over the sea.
+
+My Bonnie lies over the ocean.
+   
+Oh, bring back my Bonnie to me.
+</pre>
+
+<p>The <abbr title="World Wide Fund for Nature ">WWF</abbr> was founded in 1961.</p>
+
+<p>WWF's goal is to: <q>Build a future where people live in harmony with nature.</q></p>
+
+<h5>Quote</h5>
+<blockquote cite="http://www.worldwildlife.org/who/index.html">
+For nearly 60 years, WWF has been protecting the future of nature. The world's leading conservation organization, WWF works in 100 countries and is supported by more than one million members in the United States and close to five million globally.
+</blockquote>
+
+<p>WWF's goal is to: <q>Build a future where people live in harmony with nature.</q></p>
+
+<p>I read all the books in the <cite>Harry potter</cite> series. </p>
+<bdo dir="rtl">.tfel ot thgir 
+</bdo>
+
+<address>
+Written by M<br> 
+Visit us at:<br>
+Example.com<br>
+VITAP, Amaravati<br>
+INDI
+</address>
+
+</body>
+</html>
+
